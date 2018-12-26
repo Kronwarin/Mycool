@@ -21,7 +21,7 @@ width:100%;font-size:20px;background-color:black;color:white;text-align:center;h
 .topbar td {text-align:center} 
 .foot_text{color:yellow;text-decoration:none}
 .m_still{width:728px;background-color:white;margin-left:auto;margin-right:auto;padding:0px;border-spacing:0px} 
-.m_hidden{width:728px;vertical-align:top;margin:0px 0px 0px 0px;margin-left:auto;margin-right:auto;padding:0px;border-spacing:0px} 
+.m_hidden{width:728px;vertical-align:top;marygin:0px 0px 0px 0px;margin-left:auto;margin-right:auto;padding:0px;border-spacing:0px} 
 .m_min300{width:300px;float:left}
 .m_min400{width:400px;float:left}
 @media only screen and (max-width:320px) {.m_still {visibility:visible;width:310px} .m_min400, .m_min300{width:300px;} .m_hidden {visibility:hidden;display:none} } 
