@@ -3,6 +3,7 @@
 @font-face{font-family:'WRTishkid2'; src: url('rsp_wr_tish_kid2.ttf');}
 @font-face{font-family:'TLWGTypewriter'; src: url('rsp_tlwgtypewriter.ttf');}
 @font-face{font-family:'FC Knomphing Regular'; src: url('rsp.ttf');}
+@font-face{font-family:'rsp_sawasdee'; src: url('rsp.ttf');}
 #main{background-color:#000099;font-family:microsoft sans serif;font-size:12px;margin:0px 0px 0px 0px} 
 fieldset{margin:10px 0px 0px 0px;padding:0px} 
 legend{
